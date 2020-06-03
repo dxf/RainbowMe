@@ -1,4 +1,5 @@
-﻿# RainbowMe
+# RainbowMe
+[![Discord](https://img.shields.io/discord/685871797228273735.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/D2weV4J)
 *Add some flair to your Discord profile picture!*
 Discord bot created by @dxf to celebrate Pride 2020. Grabs users' existing profile pictures, and overlays a rainbow to create a border using Pillow.
 ## Requirements
