@@ -10,8 +10,11 @@ Discord bot created by @dxf to celebrate Pride 2020. Grabs users' existing profi
 - requests
 ## Examples
 [![Watch the video](https://img.youtube.com/vi/19LUEVoxl8k/maxresdefault.jpg)](https://youtu.be/19LUEVoxl8k)
+
 *Click me to watch a video example on YouTube!*
+
 ![Profile with RainbowMe image](https://downloadmoredownloads.download/i/ttfy.png)
+
 ![Chat message with RainbowMe image as profile picture.](https://downloadmoredownloads.download/i/22kr.png)
 ## Installation
 - Install dependencies.
